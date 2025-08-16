@@ -1,0 +1,17 @@
+<svg width="512" height="512" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="512" height="512" fill="#B45A2A" rx="64"/>
+  
+  <!-- Chef Hat Icon -->
+  <g transform="translate(128, 120)">
+    <circle cx="128" cy="160" r="90" fill="white"/>
+    <rect x="55" y="220" width="146" height="50" fill="white" rx="8"/>
+    <circle cx="80" cy="120" r="20" fill="white"/>
+    <circle cx="130" cy="95" r="25" fill="white"/>
+    <circle cx="180" cy="120" r="20" fill="white"/>
+  </g>
+  
+  <!-- Text -->
+  <text x="256" y="380" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="42" font-weight="bold">HILLDALE</text>
+  <text x="256" y="420" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="32">BREAKFAST</text>
+</svg>
